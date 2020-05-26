@@ -16,8 +16,8 @@
   "source": {
     "http": "https://openhome.alipay.com/doc/sdkResPackageDownLoad.resource?code=8a503930fb3847d68f50b23fda7752c3"
   },
-  "vendored_frameworks": "iOS_SDK_No_UTDID/AlipaySDK.framework",
-  "resources": "iOS_SDK_No_UTDID/AlipaySDK.bundle",
+  "vendored_frameworks": "AlipaySDK.framework",
+  "resources": "AlipaySDK.bundle",
   "frameworks": [
     "UIKit",
     "Foundation",
