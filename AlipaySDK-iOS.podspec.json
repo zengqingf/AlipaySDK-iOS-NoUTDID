@@ -1,0 +1,37 @@
+{
+  "name": "AlipaySDK-iOS",
+  "version": "15.7.4",
+  "summary": "支付宝官方SDK",
+  "homepage": "https://open.alipay.com/platform/home.htm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shanjia": "shanjia.gxd@antfin.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://openhome.alipay.com/doc/sdkResPackageDownLoad.resource?code=8a503930fb3847d68f50b23fda7752c3"
+  },
+  "vendored_frameworks": "AlipaySDK.framework",
+  "resources": "AlipaySDK.bundle",
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CFNetwork",
+    "SystemConfiguration",
+    "QuartzCore",
+    "CoreGraphics",
+    "CoreMotion",
+    "CoreTelephony",
+    "CoreText",
+    "WebKit"
+  ],
+  "libraries": [
+    "c++",
+    "z"
+  ]
+}
