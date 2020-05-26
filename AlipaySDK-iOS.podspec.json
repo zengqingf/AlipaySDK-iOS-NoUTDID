@@ -14,7 +14,7 @@
     "ios": "8.0"
   },
   "source": {
-    "http": "https://openhome.alipay.com/doc/sdkResPackageDownLoad.resource?code=8a503930fb3847d68f50b23fda7752c3"
+    "http": "https://github.com/zengqingf/AlipaySDK-iOS-NoUTDID/raw/master/iOS_SDK_No_UTDID.zip"
   },
   "vendored_frameworks": "AlipaySDK.framework",
   "resources": "AlipaySDK.bundle",
